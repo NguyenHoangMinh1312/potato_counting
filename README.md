@@ -103,6 +103,5 @@ potato-counter/
 - Check that the polygon region covers the desired tracking area
 - Confirm model weights are accessible at the specified path
 
-## Contributing
-
-When contributing to this project, please ensure that any changes maintain compatibility with the specified dependency versions.
+## Demo
+[Demo video](./object_counting_output.avi)
